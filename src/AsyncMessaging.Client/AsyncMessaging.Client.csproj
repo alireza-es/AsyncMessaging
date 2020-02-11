@@ -4,4 +4,8 @@
     <TargetFramework>netcoreapp3.1</TargetFramework>
   </PropertyGroup>
 
+  <ItemGroup>
+    <ProjectReference Include="..\AsyncMessaging.Core\AsyncMessaging.Core.csproj" />
+  </ItemGroup>
+
 </Project>
